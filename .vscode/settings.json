@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.md": "markdown",
+    "*.mdx": "mdx",
+    "*.vue": "vue",
+    "time.h": "c"
+  }
+}
